@@ -1,0 +1,4 @@
+hari|donor|hari123|7200730554
+loki|consumer|loki123|7200730557
+king|consumer|king123|9632587410
+raj|consumer|raj123|7200730556
